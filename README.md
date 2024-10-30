@@ -62,7 +62,7 @@ Articles and resources on Agile methodologies and Scrum practices.
 Other articles that don't fit into the categories above.
 
 1. [How to Write Documentation](https://hybridhacker.email/p/how-to-write-documentation)
-<!-- 2. [Time Management for Software Developers](https://example.com) -->
+2. [Torvalds' quote about good programmer](https://softwareengineering.stackexchange.com/questions/163185/torvalds-quote-about-good-programmer)
 
 ---
 
