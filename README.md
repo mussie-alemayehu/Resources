@@ -21,7 +21,7 @@ A collection of articles and resources related to Flutter development.
 1. [Passing data with GoRouter](https://docs.page/csells/go_router/parameters)
 2. [Flutter Deep Linking: The Ultimate Guide](https://codewithandrea.com/articles/flutter-deep-links/)
 3. [Internationalizing Flutter apps with multi language support](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization)
-<!-- 4. [Flutter Animations: A Deep Dive](https://example.com) -->
+4. [Dio Interceptors in Flutter](https://articles.readytowork.jp/dio-interceptors-in-flutter-e813f08c2017)
 
 <!-- 
 ---
