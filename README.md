@@ -64,6 +64,7 @@ Other articles that don't fit into the categories above.
 1. [How to Write Documentation](https://hybridhacker.email/p/how-to-write-documentation)
 2. [Torvalds' quote about good programmer](https://softwareengineering.stackexchange.com/questions/163185/torvalds-quote-about-good-programmer)
 3. [Using AI Generated Code Will Make You a Bad Programmer](https://slopwatch.com/posts/bad-programmer/?ref=dailydev)
+4. [11 Practical Ways to Bring Side Income as a Developer](https://dev.to/opire/11-practical-ways-to-bring-side-income-as-a-developer-5apm?ref=dailydev)
 
 ---
 
