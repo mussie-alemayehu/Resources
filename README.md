@@ -7,10 +7,11 @@ This repository contains links to articles, tutorials, and resources that I find
 ## Table of Contents
 
 1. [Flutter Development](#flutter-development)
-2. [Web Development](#web-development)
-3. [Software Engineering Principles](#software-engineering-principles)
-4. [Agile and Scrum](#agile-and-scrum)
-5. [Miscellaneous](#miscellaneous)
+2. [Useful Flutter Libraries](#useful-flutter-libraries)
+3. [Web Development](#web-development)
+4. [Software Engineering Principles](#software-engineering-principles)
+5. [Agile and Scrum](#agile-and-scrum)
+6. [Miscellaneous](#miscellaneous)
 
 ---
 
@@ -22,6 +23,9 @@ A collection of articles and resources related to Flutter development.
 2. [Flutter Deep Linking: The Ultimate Guide](https://codewithandrea.com/articles/flutter-deep-links/)
 3. [Internationalizing Flutter apps with multi language support](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization)
 4. [Dio Interceptors in Flutter](https://articles.readytowork.jp/dio-interceptors-in-flutter-e813f08c2017)
+
+## Useful Flutter Libraries
+1. [GetWidget](https://docs.getwidget.dev/)
 
 <!-- 
 ---
