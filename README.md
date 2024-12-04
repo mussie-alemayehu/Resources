@@ -26,6 +26,7 @@ A collection of articles and resources related to Flutter development.
 
 ## Useful Flutter Libraries
 1. [GetWidget](https://docs.getwidget.dev/)
+2. [Flutter Shadcn](https://flutter-shadcn-ui.mariuti.com/)
 
 <!-- 
 ---
