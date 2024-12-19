@@ -11,7 +11,8 @@ This repository contains links to articles, tutorials, and resources that I find
 3. [Web Development](#web-development)
 4. [Software Engineering Principles](#software-engineering-principles)
 5. [Agile and Scrum](#agile-and-scrum)
-6. [Miscellaneous](#miscellaneous)
+6. [Web Tools](#web-tools)
+7. [Miscellaneous](#miscellaneous)
 
 ---
 
@@ -61,6 +62,9 @@ Articles and resources on Agile methodologies and Scrum practices.
 3. [Agile Retrospectives Best Practices](https://example.com)
 
 --- -->
+
+## Web Tools
+1. [App Icon Generator](https://www.appicon.co/)
 
 ## Miscellaneous
 
