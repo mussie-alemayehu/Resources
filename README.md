@@ -25,6 +25,7 @@ A collection of articles and resources related to Flutter development.
 3. [Internationalizing Flutter apps with multi language support](https://docs.flutter.dev/ui/accessibility-and-internationalization/internationalization)
 4. [Dio Interceptors in Flutter](https://articles.readytowork.jp/dio-interceptors-in-flutter-e813f08c2017)
 5. [Flutter – Changing App Icon](https://www.geeksforgeeks.org/flutter-changing-app-icon/)
+6. [Understanding state management with Provider in Flutter](https://nureddineraslan.medium.com/understanding-state-management-with-provider-in-flut-e74e0b9e49d9)
 
 ## Useful Flutter Libraries
 1. [GetWidget](https://docs.getwidget.dev/)
