@@ -68,6 +68,7 @@ Articles and resources on Agile methodologies and Scrum practices.
 ## Web Tools
 1. [App Icon Generator](https://www.appicon.co/)
 2. [Undraw](https://undraw.co/): To get beautiful illustrations to use in your apps.
+3. [MockUPhone](https://mockuphone.com/): To create beautifully framed pictures from app screenshots
 
 ## Miscellaneous
 
